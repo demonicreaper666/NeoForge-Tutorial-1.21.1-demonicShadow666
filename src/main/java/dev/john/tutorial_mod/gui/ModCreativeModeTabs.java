@@ -23,11 +23,22 @@ public class ModCreativeModeTabs {
                     () -> CreativeModeTab.builder().icon(()-> new ItemStack(ModItems.BISMUTH.get()))
                             .title(Component.translatable("creativetab.tutorial_mod.bismuth_items"))
                             .displayItems((itemDisplayParameters, output) -> {
+
+                                //Items
                                 output.accept(ModItems.BISMUTH);
                                 output.accept(ModItems.RAW_BISMUTH);
+                                output.accept(ModItems.CHISEL);
+                                output.accept(ModItems.RADISH);
+                                output.accept(ModItems.STARLIGHT_ASHES);
+                                output.accept(ModItems.FROSTFIRE_ICE);
+
+                                //Blocks
                                 output.accept(ModBlocks.BISMUTH_BLOCK);
                                 output.accept(ModBlocks.BISMUTH_ORE);
-                                output.accept(ModItems.CHISEL);
+                                output.accept(ModBlocks.MAGIC_BLOCK);
+
+
+
                             }).build());
 
 

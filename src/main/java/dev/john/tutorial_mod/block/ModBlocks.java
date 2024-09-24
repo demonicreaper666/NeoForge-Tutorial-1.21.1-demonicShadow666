@@ -1,6 +1,7 @@
 package dev.john.tutorial_mod.block;
 
 import dev.john.tutorial_mod.TutorialMod;
+import dev.john.tutorial_mod.block.custom.MagicBlock;
 import dev.john.tutorial_mod.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -26,6 +27,9 @@ public class ModBlocks {
     public static final DeferredBlock<Block> BISMUTH_ORE = registerBlock("bismuth_ore",
             ()-> new DropExperienceBlock(UniformInt.of(4,8),
                     BlockBehaviour.Properties.of().strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+
+    public static final DeferredBlock<Block> MAGIC_BLOCK = registerBlock("magic_block",
+            ()-> new MagicBlock(BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
 
 
 
