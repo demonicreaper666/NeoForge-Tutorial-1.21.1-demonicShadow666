@@ -1,5 +1,11 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item"
+  "item.tutorial_mod.bismuth": "Bismuth",
+  "item.tutorial_mod.raw_bismuth": "Raw Bismuth",
+  "item.tutorial_mod.chisel": "Chisel",
+
+
+  "block.tutorial_mod.bismuth_block": "Block of Bismuth",
+  "block.tutorial_mod.bismuth_ore": "Bismuth Ore",
+
+  "creativetab.tutorial_mod.bismuth_items": "Bismuth Items"
 }
