@@ -1,0 +1,6 @@
+{
+  "parent": "tutorial_mod:item/demon_bow",
+  "textures": {
+    "layer0": "tutorial_mod:item/demon_bow_pulling_2"
+  }
+}

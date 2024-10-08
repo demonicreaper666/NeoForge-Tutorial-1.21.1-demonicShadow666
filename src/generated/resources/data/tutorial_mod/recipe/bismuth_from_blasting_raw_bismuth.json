@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "bismuth",
+  "ingredient": {
+    "item": "tutorial_mod:raw_bismuth"
+  },
+  "result": {
+    "count": 1,
+    "id": "tutorial_mod:bismuth"
+  }
+}

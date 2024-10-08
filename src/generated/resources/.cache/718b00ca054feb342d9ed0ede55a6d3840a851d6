@@ -1,7 +1,26 @@
-// 1.21.1	2024-09-24T11:05:20.0713365	Item Models: tutorial_mod
+// 1.21.1	2024-09-25T16:49:54.1922131	Item Models: tutorial_mod
 a3ada5986f092da99b1b0565ceb21d210624f514 assets/tutorial_mod/models/item/bismuth.json
+e68732cea8733e9efb64857c3b902cf3d1e1b7fb assets/tutorial_mod/models/item/bismuth_axe.json
+9eae1190e99115f607f6d41e21a8b9081e9f6269 assets/tutorial_mod/models/item/bismuth_boots.json
+4af0b9db596341345c9ee2faf4015e01b8280478 assets/tutorial_mod/models/item/bismuth_button.json
+7f22fd73de6760410066fb89931d7efea1ae4dc4 assets/tutorial_mod/models/item/bismuth_chestplate.json
+ec81e112fb23bda66cb6de1b1c4179ec8e08b2a2 assets/tutorial_mod/models/item/bismuth_door.json
+32e0d5190a765fe7f90c98b58c46a2fd967edae3 assets/tutorial_mod/models/item/bismuth_fence.json
+a535810fe452ffe74f931cfb2ece2ef1545d619e assets/tutorial_mod/models/item/bismuth_hammer.json
+e40fbe885f426e6b995a96352bcf44961e4fd08d assets/tutorial_mod/models/item/bismuth_helmet.json
+3a45d358d34ca83c75927891822c967b10ac946c assets/tutorial_mod/models/item/bismuth_hoe.json
+444e9e3a49edcac70384cefe860df2c4d8e70be0 assets/tutorial_mod/models/item/bismuth_leggings.json
+3788dcdbd344c0dec966707361a8c5552b55c396 assets/tutorial_mod/models/item/bismuth_paxel.json
+ff28080f094d5a516e64da927735e1dd6f1e4477 assets/tutorial_mod/models/item/bismuth_pickaxe.json
+01475ee0f94928d8527b4556d60ab8f0d173b00f assets/tutorial_mod/models/item/bismuth_shovel.json
+9ee6f51d972a81374b7d4e763a15bbfb4a26052b assets/tutorial_mod/models/item/bismuth_sword.json
+f81dbbce01bcd130d37596a4c1f0e63f9b8fa9ff assets/tutorial_mod/models/item/bismuth_wall.json
+7611880b52db687aeb7e0914b7721d8cd986c28e assets/tutorial_mod/models/item/chainsaw.json
 48dd4475ed61b431b9f1906d781b28d06eb5b05c assets/tutorial_mod/models/item/chisel.json
 f0226fdd7d9f9f9969ea5d3ca1dc9730e297f76f assets/tutorial_mod/models/item/frostfire_ice.json
+cf9fa74ad09d905ba8bd2074aa181bdee52cbbcf assets/tutorial_mod/models/item/metal_detector.json
 e4bd106ec7e9a2d4ddc981aab827e3310569c241 assets/tutorial_mod/models/item/radish.json
 05d69692787a45cd90282d41a2038d3bd00530c1 assets/tutorial_mod/models/item/raw_bismuth.json
 1bff03130188aa337eaa14009c6f5b3eb7d94f07 assets/tutorial_mod/models/item/starlight_ashes.json
+b7c58706823fb840b1e5791b216d7b25c6bd5109 assets/tutorial_mod/models/item/tomato.json
+182b686dc982b3e67c6729cc664f6751d542651d assets/tutorial_mod/models/item/tomato_seeds.json

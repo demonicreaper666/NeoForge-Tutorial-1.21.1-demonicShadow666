@@ -1,0 +1,10 @@
+// 1.21.1	2024-09-30T16:17:34.7976586	Tags for minecraft:block mod id tutorial_mod
+a2a51773e711d45fe8298c561eaa1aa7fb7d0454 data/minecraft/tags/block/fences.json
+2e8e36f8f53c6236438e2a3fd63593070dda9d3c data/minecraft/tags/block/fence_gates.json
+15870a9c6a11fa2133224eb572a25c6fc2573620 data/minecraft/tags/block/mineable/pickaxe.json
+caab349e834a157f3f7dd026af45aad31c9cdb31 data/minecraft/tags/block/needs_iron_tool.json
+024b2b5fb429ba52c1cfcb8fb480c8b757a98eec data/minecraft/tags/block/walls.json
+c2f6fb7224bd1e2fdb87249751113c4d66dbc21f data/tutorial_mod/tags/block/hammer/mineable.json
+06ad186b026be4a796d39245b10415a7632dd56f data/tutorial_mod/tags/block/incorrect_for_bismuth_tool.json
+a249c46329a41538f49a564e1f14338aaf1be5a0 data/tutorial_mod/tags/block/needs_bismuth_tool.json
+984a835f12c583514b244703d6bad1afa79b3402 data/tutorial_mod/tags/block/paxel/mineable.json

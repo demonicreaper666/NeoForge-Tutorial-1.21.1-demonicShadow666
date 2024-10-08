@@ -1,0 +1,13 @@
+{
+  "values": {
+    "tutorial_mod:frostfire_ice": {
+      "burn_time": 1200
+    },
+    "tutorial_mod:radish": {
+      "burn_time": 600
+    },
+    "tutorial_mod:starlight_ashes": {
+      "burn_time": 1200
+    }
+  }
+}
